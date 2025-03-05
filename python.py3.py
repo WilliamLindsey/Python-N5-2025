@@ -1,0 +1,5 @@
+input("Input the week day for January 1st in uppercase two letter format(MO/TU/WE/TH/FR/SA/SU) ")
+print()
+input("Input if it is a leap year or not (y for yes) and (n for no)")
+print()
+print("The number of Saturday's the year will contain is:<<totalnumberofsaturdays>>")

@@ -1,0 +1,5 @@
+input("Enter Chair Height:")
+print()
+input("Overall height of stacked pair tower in cm:")
+print()
+print("The total number of chair legs is:<<totalnumberofchairlegs>>20cm")
