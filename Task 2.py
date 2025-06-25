@@ -1,0 +1,5 @@
+chicken = input("How much does chicken cost?")
+Milk = input("How much does Milk cost?")
+Chips = input("How much do Chips cost?")
+print(f"The chicken costs {chicken}, the milk costs {Milk}, the chips cost {Chips}")
+print(f"The total cost is £{int(chicken) + int(Milk) + int(Chips)}")

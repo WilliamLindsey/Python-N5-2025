@@ -1,0 +1,5 @@
+Chemistry = input("What was your score")
+Maths = input("What was your score")
+Computing = input("What was your score")
+Art_and_design = input("What was your score")
+int(f"{int(Chemistry) + int(Maths) + int(Computing)}")
